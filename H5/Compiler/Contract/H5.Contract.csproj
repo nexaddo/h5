@@ -24,7 +24,7 @@
     <PackageReference Include="System.Reflection.Metadata" Version="9.0.0" />
     <PackageReference Include="System.Security.Permissions" Version="9.0.0" />
     <PackageReference Include="MessagePack" Version="2.5.192" />
-    <PackageReference Include="Mosaik.Core" Version="24.9.51621" />
+    <PackageReference Include="Mosaik.Core" Version="25.10.62082" />
     <PackageReference Include="ZLogger" Version="1.7.1" />
   </ItemGroup>
   <ItemGroup>
